@@ -1,7 +1,7 @@
-package br.com.marcarConsulta.Saude;
+package pacientes;
 
 import medicos.Medico;
-import pacientes.Pacientes;
+
 import java.time.LocalDate;
     public class FichaDoPaciente {
         private Long idFicha;

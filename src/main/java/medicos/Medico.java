@@ -42,7 +42,7 @@ public class Medico {
     public String toString() {
         return "dados do Doutor(a):" +
                 "id=" + id +
-                ", nome='" + nome + '\'' +
-                ", crm='" + crm + '\'';
+                ", nome='" + nome +
+                ", crm='" + crm;
     }
 }
